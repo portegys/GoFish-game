@@ -1,7 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0053be63-5ef0-42df-a4dc-d86506944df5" name="Default Changelist" comment="" />
+    <list default="true" id="0053be63-5ef0-42df-a4dc-d86506944df5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoFish.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GoFish.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/debug/app.aab" beforeDir="false" afterPath="$PROJECT_DIR$/app/debug/app.aab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app.aab" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app.aab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/EULA" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/EULA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/doc/gofish.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/doc/gofish.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/fanfare.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/sounds/fanfare.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/sounds/winner.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/sounds/winner.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/A.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/J.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/J.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/K.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/K.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/Q.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/Q.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1fh.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1fh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1fv.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1fv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1pb.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1pb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1pl.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1pl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1pr.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1pr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1pt.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b1pt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2fh.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2fh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2fv.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2fv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2pb.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2pb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2pl.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2pl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2pr.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2pr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2pt.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/b2pt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c10.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c3.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c4.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c5.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c6.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c7.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c8.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c9.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/c9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/cj.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/cj.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/ck.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/ck.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/cq.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/cq.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d10.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d3.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d4.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d5.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d6.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d7.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d8.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d9.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/d9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/dj.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/dj.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/dk.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/dk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/dq.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/dq.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/ec.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/ec.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h10.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h3.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h4.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h5.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h6.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h7.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h8.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h9.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/h9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/hj.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/hj.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/hk.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/hk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/hq.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/hq.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/jb.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/jb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/jr.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/jr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s10.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s3.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s4.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s5.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s6.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s7.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s8.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s9.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/s9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/sj.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/sj.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/sk.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/sk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/cards/sq.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/cards/sq.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/textures/reset_button.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/textures/reset_button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/Eula.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/Eula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/GoFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/GoFish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/GoFishRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/GoFishRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/GoFishView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/GoFishView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/LabelMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/LabelMaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/ManualViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/ManualViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/SoundManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dialectek/gofish/SoundManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/resources/LICENSE.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/resources/LICENSE.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gofish.keystore" beforeDir="false" afterPath="$PROJECT_DIR$/gofish.keystore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/import-summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/import-summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +197,10 @@
     <option name="KEY_STORE_PATH" value="C:\Users\Tom Portegys\Documents\games\GoFish\gofish.keystore" />
     <option name="KEY_ALIAS" value="gofish" />
     <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,20 +221,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
-            <path>
-              <item name="GoFish" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="GoFish" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
-            </path>
             <path>
               <item name="GoFish" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -94,12 +234,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ExportApk.ApkPath" value="C:\Users\Tom Portegys\Documents\games\GoFish\app" />
     <property name="ExportApk.BuildVariants" value="debug&#10;release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
     <property name="android.sdk.path" value="C:/AndroidStudio" />
     <property name="device.picker.selection" value="3932305550583098" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
