@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dialectek.gofish.app-merged_res-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tom Portegys\\Documents\\games\\GoFish\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,5,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,147,194,100",
+                        "endColumns": "44,46,46,46",
+                        "endOffsets": "95,189,236,142"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,100,147,194",
+                        "endColumns": "44,46,46,46",
+                        "endOffsets": "95,142,189,236"
+                    }
+                }
+            ]
+        }
+    ]
+}

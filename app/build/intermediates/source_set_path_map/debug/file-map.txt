@@ -1,0 +1,7 @@
+com.dialectek.gofish.app-pngs-0 C:\Users\Tom Portegys\Documents\games\GoFish\app\build\generated\res\pngs\debug
+com.dialectek.gofish.app-resValues-1 C:\Users\Tom Portegys\Documents\games\GoFish\app\build\generated\res\resValues\debug
+com.dialectek.gofish.app-mergeDebugResources-2 C:\Users\Tom Portegys\Documents\games\GoFish\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.dialectek.gofish.app-mergeDebugResources-3 C:\Users\Tom Portegys\Documents\games\GoFish\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.dialectek.gofish.app-merged_res-4 C:\Users\Tom Portegys\Documents\games\GoFish\app\build\intermediates\merged_res\debug
+com.dialectek.gofish.app-debug-5 C:\Users\Tom Portegys\Documents\games\GoFish\app\src\debug\res
+com.dialectek.gofish.app-main-6 C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\res
