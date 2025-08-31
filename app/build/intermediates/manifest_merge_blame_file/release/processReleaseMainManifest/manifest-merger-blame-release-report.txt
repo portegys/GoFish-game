@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dialectek.gofish"
+4    android:versionCode="5"
+5    android:versionName="1.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="3"
+9        android:targetSdkVersion="34" />
+10
+11    <application
+11-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:4:5-18:19
+12        android:extractNativeLibs="true"
+13        android:icon="@drawable/icon"
+13-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:4:18-47
+14        android:label="@string/app_name" >
+14-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:4:48-80
+15        <activity
+15-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:5:9-13:20
+16            android:name="com.dialectek.gofish.GoFish"
+16-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:5:19-41
+17            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|fontScale|uiMode"
+17-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:6:19-146
+18            android:exported="false"
+18-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:8:19-43
+19            android:label="@string/app_name" >
+19-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:7:19-51
+20            <intent-filter>
+20-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:9:13-12:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:10:17-69
+21-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:10:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:11:17-77
+23-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:11:27-74
+24            </intent-filter>
+25        </activity>
+26        <activity
+26-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:14:9-17:20
+27            android:name="com.dialectek.gofish.ManualViewer"
+27-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:14:19-47
+28            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|fontScale|uiMode"
+28-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:15:19-146
+29            android:label="@string/app_name" >
+29-->C:\Users\Tom Portegys\Documents\games\GoFish\app\src\main\AndroidManifest.xml:16:19-51
+30        </activity>
+31    </application>
+32
+33</manifest>

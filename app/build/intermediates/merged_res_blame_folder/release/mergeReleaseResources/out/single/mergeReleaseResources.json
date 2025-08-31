@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.dialectek.gofish.app-release-4:/drawable-ldpi_icon.png.flat",
+        "source": "com.dialectek.gofish.app-main-5:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "com.dialectek.gofish.app-release-4:/drawable_icon.png.flat",
+        "source": "com.dialectek.gofish.app-main-5:/drawable/icon.png"
+    },
+    {
+        "merged": "com.dialectek.gofish.app-release-4:/drawable-mdpi_icon.png.flat",
+        "source": "com.dialectek.gofish.app-main-5:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "com.dialectek.gofish.app-release-4:/drawable-hdpi_icon.png.flat",
+        "source": "com.dialectek.gofish.app-main-5:/drawable-hdpi/icon.png"
+    }
+]

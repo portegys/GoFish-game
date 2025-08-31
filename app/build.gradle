@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 34
 
     defaultConfig {
         applicationId "com.dialectek.gofish"
         minSdkVersion 3
-        targetSdkVersion 28
+        targetSdkVersion 34
     }
 
     buildTypes {

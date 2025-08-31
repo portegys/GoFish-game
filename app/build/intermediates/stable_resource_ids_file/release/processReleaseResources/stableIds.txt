@@ -1,0 +1,5 @@
+com.dialectek.gofish:string/eula_title = 0x7f020003
+com.dialectek.gofish:string/eula_accept = 0x7f020001
+com.dialectek.gofish:string/app_name = 0x7f020000
+com.dialectek.gofish:string/eula_refuse = 0x7f020002
+com.dialectek.gofish:drawable/icon = 0x7f010000

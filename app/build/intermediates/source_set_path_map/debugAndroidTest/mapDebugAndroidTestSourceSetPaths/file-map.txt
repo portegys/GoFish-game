@@ -1,0 +1,4 @@
+com.dialectek.gofish.test.app-androidTest-0 C:\Users\Tom Portegys\Documents\games\GoFish\app\build\generated\res\resValues\androidTest\debug
+com.dialectek.gofish.test.app-mergeDebugAndroidTestResources-1 C:\Users\Tom Portegys\Documents\games\GoFish\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.dialectek.gofish.test.app-mergeDebugAndroidTestResources-2 C:\Users\Tom Portegys\Documents\games\GoFish\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.dialectek.gofish.test.app-debugAndroidTest-3 C:\Users\Tom Portegys\Documents\games\GoFish\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
